@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Louis
+- 👀 I’m interested in software development
+- 🌱 I’m currently a second-year computer science student
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/louis-gustavo/)
