@@ -1,3 +1,3 @@
-- 👋 Hi, I’m **Louis "itslouisgs"**, an aspiring software developer.
-- 🌱 I’m currently a second-year computer science student.
+- 👋 Hi, I’m **Louis Gustavo "itslouisgs" Lee**, an aspiring software developer
+- 🌱 I’m currently a second-year computer science student
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/louis-gustavo/)
