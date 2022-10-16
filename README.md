@@ -1,4 +1,4 @@
-## Hey👋, it's Louis "itslouisgs"
+# Hey👋, it's Louis "itslouisgs"
 I am an avid software engineer and currently a computer science student at [BINUS University](https://binus.ac.id).
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:louis.gustavo@binus.ac.id)
