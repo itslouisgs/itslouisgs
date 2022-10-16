@@ -7,7 +7,7 @@ I am an avid software engineer and currently a computer science student at [BINU
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itslouisgs&theme=tokyonight&show_icons=true)
 
-### Skills
+## Skills
 Here are some technologies that I am familiar with:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,7 +24,7 @@ Here are some technologies that I am familiar with:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Contact Me
+## Contact Me
 Wanna ask me a question or simply say hi? You may reach me via email at [louis.gustavo@binus.ac.id](mailto:louis.gustavo@binus.ac.id).
 
 Additionally, you may find me on [my personal website](https://louisite.netlify.app/) and [LinkedIn](https://www.linkedin.com/in/louis-gustavo).
