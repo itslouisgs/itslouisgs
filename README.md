@@ -5,7 +5,7 @@ I am a software engineer and currently a third-year computer science student at 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-gustavo)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/itslouisgs)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=itslouisgs&theme=tokyonight&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=itslouisgs&theme=synthwave&show_icons=true)
 
 ## Skills
 Here are some technologies that I am familiar with:
