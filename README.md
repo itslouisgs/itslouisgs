@@ -7,7 +7,7 @@ I am a software engineer and currently a penultimate computer science student at
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=leejhlouis&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejhlouis&layout=compact&theme=tokyonight&langs_count=8)
 
 ## Skills
 Here are some technologies that I am familiar with:
