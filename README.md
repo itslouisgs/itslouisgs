@@ -1,5 +1,5 @@
-# Hey👋, it's Louis "leejhlouis"
-I am a software engineer and currently a penultimate computer science student at [BINUS University](https://binus.ac.id).
+# Hey👋, it's Louis "leejhlouis", a software engineer seeking opportunities
+Ex-Blibli | Computer Science Fresh Graduate at BINUS University
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:louis.gustavo@binus.ac.id)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-gustavo)
