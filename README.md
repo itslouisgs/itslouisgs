@@ -1,7 +1,7 @@
 # Hey👋, it's Louis "leejhlouis", a software engineer seeking opportunities
 Ex-Blibli | Computer Science Fresh Graduate at BINUS University
 
-Read more on my [my personal website](https://louisite.netlify.app/)
+Read more on [my personal website](https://louisite.netlify.app/)
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:louis.gustavo@binus.ac.id)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-gustavo)
