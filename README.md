@@ -1,6 +1,8 @@
 # Hey👋, it's Louis "leejhlouis", a software engineer seeking opportunities
 Ex-Blibli | Computer Science Fresh Graduate at BINUS University
 
+Read more on my [my personal website](https://louisite.netlify.app/)
+
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:louis.gustavo@binus.ac.id)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-gustavo)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/leejhlouis)
@@ -34,4 +36,4 @@ Here are some technologies that I am familiar with:
 ## Contact Me
 Wanna ask me a question or simply say hi? You may reach me via email at [louis.gustavo@binus.ac.id](mailto:louis.gustavo@binus.ac.id).
 
-Additionally, you may find me on [my personal website](https://louisite.netlify.app/) and [LinkedIn](https://www.linkedin.com/in/louis-gustavo).
+Additionally, you may find me on [LinkedIn](https://www.linkedin.com/in/louis-gustavo).
