@@ -1,5 +1,5 @@
-# Hey👋, it's Louis "leejhlouis", a software engineer seeking opportunities
-Ex-Blibli | Computer Science Fresh Graduate at BINUS University
+# Hey👋, it's Louis "leejhlouis", software engineer at Traveloka
+Ex-Blibli
 
 Read more on [my personal website](https://louisite.netlify.app/)
 
@@ -34,6 +34,6 @@ Here are some technologies that I am familiar with:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ## Contact Me
-Wanna ask me a question or simply say hi? You may reach me via email at [louis.gustavo@binus.ac.id](mailto:louis.gustavo@binus.ac.id).
+Wanna ask me a question or simply say hi? You may reach me via email at [louisgustavo07@gmail.com](mailto:louisgustavo07@gmail.com).
 
 Additionally, you may find me on [LinkedIn](https://www.linkedin.com/in/louis-gustavo).
